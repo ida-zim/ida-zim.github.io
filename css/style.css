@@ -1058,7 +1058,8 @@ ul.lush-slider {
 ============================= */
 
 /* --- contact form  ---- */
-form#contactform input[type="text"] {
+form#contactform input[type="text"],
+form#contactform input[type="email"] {
   width: 100%;
   min-height: 40px;
   padding-left: 20px;
